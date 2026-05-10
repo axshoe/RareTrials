@@ -61,10 +61,6 @@ In `backend/updater.py`:
 
 TrialNavigator (v2) is the partner-facing embed tool for the Buffalo Initiative and CACNA1A Foundation networks. RareTrials is the public, universal version covering all rare diseases. Both use the same ClinicalTrials.gov API architecture. They coexist: patient organizations in the Buffalo network use TrialNavigator embeds; any organization in the broader rare disease ecosystem can use RareTrials.
 
-## Setup
-
-See [SETUP.md](./SETUP.md).
-
 ## License
 
 MIT
