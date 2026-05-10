@@ -1,0 +1,9 @@
+node_modules/
+build/
+.env
+*.db
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+SETUP.md
