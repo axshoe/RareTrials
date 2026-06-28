@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T10:17:48.701496",
+  "updated": "2026-06-28T10:31:48.563078",
   "diseases": {
     "cacna1a": [
       {
@@ -4444,6 +4444,21 @@
         "locationCount": 1
       },
       {
+        "nctId": "NCT05102916",
+        "briefTitle": "Swiss Registry for Neuromuscular Disorders",
+        "status": "RECRUITING",
+        "phase": "",
+        "conditions": [
+          "SMA",
+          "DMD",
+          "BMD",
+          "IMD",
+          "Congenital Muscular Dystrophy"
+        ],
+        "briefSummary": "The Swiss Patient Registry for DMD/BMD and SMA was launched in 2008 in order to give Swiss patients access to new therapies. It was founded with the financial support of several patient organizations and research foundations. Since 2008, children, adolescents and adults with DMD, BMD and SMA are reg",
+        "locationCount": 19
+      },
+      {
         "nctId": "NCT02295748",
         "briefTitle": "An Open-Label, Long-Term Extension Study to Evaluate the Safety and Tolerability Deflazacort",
         "status": "COMPLETED",
@@ -5544,21 +5559,6 @@
         ],
         "briefSummary": "An estimated 2.2 million children under the age of 5 years die from diarrheal disease each year. Most of the burden of diarrheal disease is thought to be preventable with improvements in sanitation, water quality, and hygiene. Large scale interventions promoting these behaviours have either not been",
         "locationCount": 1
-      },
-      {
-        "nctId": "NCT05102916",
-        "briefTitle": "Swiss Registry for Neuromuscular Disorders",
-        "status": "RECRUITING",
-        "phase": "",
-        "conditions": [
-          "SMA",
-          "DMD",
-          "BMD",
-          "IMD",
-          "Congenital Muscular Dystrophy"
-        ],
-        "briefSummary": "The Swiss Patient Registry for DMD/BMD and SMA was launched in 2008 in order to give Swiss patients access to new therapies. It was founded with the financial support of several patient organizations and research foundations. Since 2008, children, adolescents and adults with DMD, BMD and SMA are reg",
-        "locationCount": 19
       },
       {
         "nctId": "NCT01000012",
@@ -8226,42 +8226,6 @@
         "locationCount": 9
       },
       {
-        "nctId": "NCT06523582",
-        "briefTitle": "Genetic Bases of Neuroendocrine Neoplasms in Mexican Patients",
-        "status": "RECRUITING",
-        "phase": "",
-        "conditions": [
-          "Neuroendocrine Neoplasm",
-          "Neuroendocrine Neoplasm of Gastrointestinal Tract",
-          "Neuroendocrine Neoplasm of Lung",
-          "Thymic Neuroendocrine Neoplasm",
-          "Neuroendocrine Tumor of Pancreas",
-          "Gastrointestinal Stromal Tumors",
-          "Medullary Thyroid Cancer",
-          "Paraganglioma",
-          "Pheochromocytoma",
-          "Primary Hyperparathyroidism",
-          "Pituitary Tumor",
-          "Multiple Endocrine Neoplasia Type 1",
-          "Multiple Endocrine Neoplasia Type 2",
-          "Multiple Endocrine Neoplasia Type 4",
-          "Carney Complex",
-          "Carney Stratakis Dyad",
-          "Carney Triad",
-          "Cowden Syndrome",
-          "DICER1 Syndrome",
-          "Li-Fraumeni Syndrome",
-          "Lynch Syndrome",
-          "Von Hippel-Lindau Disease",
-          "Familial Isolated Pituitary Adenoma",
-          "X-Linked Acrogigantism",
-          "Neurofibromatosis 1",
-          "Tuberous Sclerosis"
-        ],
-        "briefSummary": "Neuroendocrine neoplasms (NENs) are a heterogeneous group of lesions derived from cells with the ability to produce hormones that may arise from multiple different organs. Their clinical behavior is quite variable, encompassing both benign lesions and aggressive tumors that invade surrounding and/or",
-        "locationCount": 3
-      },
-      {
         "nctId": "NCT04344626",
         "briefTitle": "Use of a Tonometer to Identify Epileptogenic Lesions During Pediatric Epilepsy Surgery",
         "status": "WITHDRAWN",
@@ -9164,7 +9128,7 @@
         "locationCount": 1
       }
     ],
-    "dravet": [
+    "cdkl5": [
       {
         "nctId": "NCT06660394",
         "briefTitle": "A Phase 3, Placebo-Controlled Study to Investigate LP352 in Children and Adults With Dravet Syndrome (DS)",
@@ -9266,6 +9230,28 @@
         "locationCount": 0
       },
       {
+        "nctId": "NCT02358538",
+        "briefTitle": "Open-Label PoC Trial of Ganaxolone in Children With PCDH19 Female Pediatric Epilepsy and Other Rare Genetic Epilepsies",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Epilepsy"
+        ],
+        "briefSummary": "To evaluate the efficacy of open-label ganaxolone as adjunctive therapy for uncontrolled seizures in female children with PCDH19 mutation and other rare genetic epilepsies in an open-label proof-of-concept study.",
+        "locationCount": 10
+      },
+      {
+        "nctId": "NCT03861871",
+        "briefTitle": "Fenfluramine in CDKL5 Deficiency Disorder (CDD)",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "CDD"
+        ],
+        "briefSummary": "This study will be enrolling 10 patients, ages 2-18 years old, with a confirmed genetic/clinical diagnosis of CDKL5 Deficiency Disorder (CDD) in an open label trial of fenfluramine for seizure control. Patients will be titrated over 14 days to a dose of ZX008 0.8 mg/kg/day (maximum dose 30 mg/d).",
+        "locationCount": 1
+      },
+      {
         "nctId": "NCT03467113",
         "briefTitle": "A Study to Assess the Safety and Tolerability of ZX008 in Children and Young Adults With Dravet Syndrome or Lennox Gastaut Syndrome Currently Taking Cannabidiol",
         "status": "COMPLETED",
@@ -9276,6 +9262,19 @@
         ],
         "briefSummary": "This is an open label study to evaluate the safety of ZX008 (fenfluramine) in patients with Dravet syndrome (DS) or Lennox Gastaut syndrome (LGS) who are being administered cannabidiol (CBD).",
         "locationCount": 2
+      },
+      {
+        "nctId": "NCT05558371",
+        "briefTitle": "International CDKL5 Clinical Research Network",
+        "status": "RECRUITING",
+        "phase": "",
+        "conditions": [
+          "CDKL5",
+          "CDKL5 Deficiency Disorder",
+          "CDD"
+        ],
+        "briefSummary": "Pathogenic variants in the Cyclin-dependent kinase like 5 (CDKL5) gene cause CDKL5 deficiency disorder (CDD, MIM 300672, 105830), a severe developmental and epileptic encephalopathy associated with cognitive and motor impairments and cortical visual impairment. While capability for disease modifying",
+        "locationCount": 9
       },
       {
         "nctId": "NCT02224573",
@@ -9291,6 +9290,17 @@
         "locationCount": 0
       },
       {
+        "nctId": "NCT06448663",
+        "briefTitle": "Targeting the Gut to Improve Seizure Control in CDKL5 Deficiency Disorder (CDD)",
+        "status": "RECRUITING",
+        "phase": "NA",
+        "conditions": [
+          "CDKL5"
+        ],
+        "briefSummary": "Standard anti-seizure medications have limited efficacy in seizure control in cyclin-dependent kinase-like 5 deficiency disorder (CDD).\n\nThe study will investigate whether targeting the gut-microbiota-brain axis in CDD patients can alleviate seizures and ameliorate other comorbidities.",
+        "locationCount": 1
+      },
+      {
         "nctId": "NCT02415686",
         "briefTitle": "Cardiac Arrhythmias in Dravet Syndrome",
         "status": "COMPLETED",
@@ -9300,6 +9310,20 @@
         ],
         "briefSummary": "SUMMARY\n\nRationale:\n\nPeople with Dravet Syndrome (DS), a rare epilepsy syndrome, have a high risk of Sudden Unexpected Death in Epilepsy (SUDEP). Mouse models indicated that the responsible sodium channel mutation (SCN1A) not only alters cortical excitability but also increases the propensity to arr",
         "locationCount": 3
+      },
+      {
+        "nctId": "NCT05064878",
+        "briefTitle": "A Phase 3 Study to Examine the Efficacy and Safety of ZX008 in Subjects With CDKL5 Deficiency Disorder.",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE3",
+        "conditions": [
+          "CDKL5 Deficiency Disorder",
+          "Generalized Tonic Clonic Seizure",
+          "Epileptic Spasm",
+          "Refractory Seizures"
+        ],
+        "briefSummary": "This is a Phase 3 Study to examine the efficacy and safety of ZX008 in children and adults with cyclin-dependent kinase like-5 (CDKL5) deficiency disorder (CDD).",
+        "locationCount": 46
       },
       {
         "nctId": "NCT04940624",
@@ -9334,6 +9358,17 @@
         ],
         "briefSummary": "This study investigates cerebrovascular reactivity (CVR) and functional brain connectivity in Dravet Syndrome (DS) patients with convulsive seizures. Using functional MRI (fMRI), we will define differences in brain responses to CO\u2082 changes before administration of the drug Fintepla (Baseline), with ",
         "locationCount": 1
+      },
+      {
+        "nctId": "NCT05373719",
+        "briefTitle": "Observational Study in Patients With Cyclin-dependent Kinase-like 5 Deficiency Disorder",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "",
+        "conditions": [
+          "Cyclin-Dependent Kinase-Like 5 Deficiency Disorder"
+        ],
+        "briefSummary": "Observational, noninterventional, 3-year study to examine the presence of detectable differences in neurocognitive, developmental, motor, neurophysiologic, and quality of life measures over time in patients with cyclin-dependent kinase-like 5 deficiency disorder.",
+        "locationCount": 23
       },
       {
         "nctId": "NCT06283212",
@@ -9522,6 +9557,28 @@
         "locationCount": 4
       },
       {
+        "nctId": "NCT04486768",
+        "briefTitle": "International CDKL5 Registry",
+        "status": "SUSPENDED",
+        "phase": "",
+        "conditions": [
+          "CDKL5 Deficiency Disorder (CDD)"
+        ],
+        "briefSummary": "Owing to the recent classification of CDKL5 Deficiency Disorder (CDD) as a unique disorder, there is a limited understanding of overall disease natural history and meaningful outcome measures. An international patient registry aimed at collecting both patient/caregiver and clinician-entered demograp",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT04678479",
+        "briefTitle": "Ganaxolone Expanded Access Program Compassionate Use",
+        "status": "NO_LONGER_AVAILABLE",
+        "phase": "",
+        "conditions": [
+          "CDKL5 Disorder"
+        ],
+        "briefSummary": "The primary objective is to provide GNX to patients \u2265 2 years with CDD-related seizures who are refractory to, or intolerant of, standard therapy.",
+        "locationCount": 0
+      },
+      {
         "nctId": "NCT05982717",
         "briefTitle": "A Study to Gather Information About Overall Occurrence and New Cases of Dravet and Lennox-Gastaut Syndromes in Children, Teenagers and Adults in Spain",
         "status": "COMPLETED",
@@ -9576,6 +9633,17 @@
         ],
         "briefSummary": "The primary purpose of the study is to demonstrate that lorcaserin has superior efficacy compared to placebo on percent change in frequency of convulsive seizures per 28 days in participants with Dravet syndrome.",
         "locationCount": 30
+      },
+      {
+        "nctId": "NCT07602205",
+        "briefTitle": "Efficacy and Safety of Daily Home-based Hyperthermic Baths for Reducing Epileptic Seizures in CDKL5 Deficiency Disorder: A PROBE Clinical Trial",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "conditions": [
+          "CDKL5 Deficiency Disorder"
+        ],
+        "briefSummary": "The primary objective of this research is to study the efficacy and safety of daily, home-based hyperthermic baths for reducing epileptic seizures in CDKL5 Deficiency Disorder.",
+        "locationCount": 0
       },
       {
         "nctId": "NCT06371794",
@@ -9652,6 +9720,19 @@
         "locationCount": 2
       },
       {
+        "nctId": "NCT03635073",
+        "briefTitle": "A Study of Soticlestat in Adults and Children With Rare Epilepsies",
+        "status": "TERMINATED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Epilepsy",
+          "Dravet Syndrome (DS)",
+          "Lennox-Gastaut Syndrome (LGS)"
+        ],
+        "briefSummary": "The main aim is to assess the long-term safety and tolerability of soticlestat when used along with other anti-seizure treatment.\n\nParticipants will receive soticlestat twice a day. Participants will visit the study clinic every 2-6 months throughout the study.\n\nStudy treatments may continue as long",
+        "locationCount": 59
+      },
+      {
         "nctId": "NCT02823145",
         "briefTitle": "An Open-Label Extension Trial to Assess the Long-Term Safety of ZX008 (Fenfluramine Hydrochloride HCl) Oral Solution in Children and Young Adults With Dravet Syndrome",
         "status": "COMPLETED",
@@ -9672,6 +9753,17 @@
         ],
         "briefSummary": "ENDEAVOR is a Phase 1/2, 2-part, multicenter study to evaluate the safety and efficacy of ETX101 in participants with SCN1A-positive Dravet syndrome aged \u22656 to \\<36 months (Part 1A), aged \u226548 months to \\<18 years (Part 1B), and aged \u22656 to \\<48 months (Part 2). Part 1A follows an open-label, dose-esc",
         "locationCount": 13
+      },
+      {
+        "nctId": "NCT06663163",
+        "briefTitle": "The Association Between Fever and CDKL5 Deficiency Disorder: a Nationwide Survey",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "CDKL5 Deficiency Disorder"
+        ],
+        "briefSummary": "The primary objective of this research is to study the effects of fever on seizure activity in patients with CDKL5 deficiency disorder",
+        "locationCount": 1
       },
       {
         "nctId": "NCT02286986",
@@ -9884,6 +9976,17 @@
         "locationCount": 71
       },
       {
+        "nctId": "NCT05249556",
+        "briefTitle": "Double-blind, Randomized, Placebo-controlled Trial of Ganaxolone in CDKL5 Deficiency Patients 6 Months to Less Than 2 Years Old",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE3",
+        "conditions": [
+          "CDKL5 Deficiency Disorder"
+        ],
+        "briefSummary": "This study will assess the efficacy, safety, and tolerability of ganaxolone (GNX) compared with placebo (PBO) as adjunctive therapy to the participant's standard anti-epileptic medication for the treatment of seizures in pediatric patients from 6 months to less than 2 years old with genetically conf",
+        "locationCount": 0
+      },
+      {
         "nctId": "NCT04740476",
         "briefTitle": "An Open-Label Extension Study of STK-001 for Patients With Dravet Syndrome",
         "status": "ACTIVE_NOT_RECRUITING",
@@ -9928,6 +10031,28 @@
         ],
         "briefSummary": "This is an expanded access use of Stiripentol in Dravet Syndrome or epileptic encephalopathies associated with sodium channel mutations who have failed other drugs in an effort to give them the best chance at seizure control and quality of life. As a treatment protocol and not a research study, chil",
         "locationCount": 1
+      },
+      {
+        "nctId": "NCT06447675",
+        "briefTitle": "Efficacy and Safety Evaluation of Hyperthermic Baths in the Treatment of Seizures in CDKL5 Deficiency Disorder",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "conditions": [
+          "CDKL5 Deficiency Disorder"
+        ],
+        "briefSummary": "The primary objective of this research is to study the efficacy and safety of hyperthermic baths as adjunctive therapy for reducing the frequency of seizures in CDKL5 deficiency.",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT03572933",
+        "briefTitle": "Study of Adjunctive Ganaxolone Treatment in Children and Young Adults With CDKL5 Deficiency Disorder",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "conditions": [
+          "CDKL5 Deficiency Disorder"
+        ],
+        "briefSummary": "A clinical study to evaluate the efficacy, safety, and tolerability of adjunctive ganaxolone therapy compared to placebo for the treatment of seizures in children and young adults with genetically confirmed CDKL5 gene mutation.",
+        "locationCount": 36
       },
       {
         "nctId": "NCT04537832",
@@ -10100,169 +10225,6 @@
         ],
         "briefSummary": "The goal of this clinical trial is to learn if FRF-001 is a safe, tolerable, and efficacious treatment for children and adults with FOXG1 syndrome.",
         "locationCount": 0
-      }
-    ],
-    "cdkl5": [
-      {
-        "nctId": "NCT02358538",
-        "briefTitle": "Open-Label PoC Trial of Ganaxolone in Children With PCDH19 Female Pediatric Epilepsy and Other Rare Genetic Epilepsies",
-        "status": "COMPLETED",
-        "phase": "PHASE2",
-        "conditions": [
-          "Epilepsy"
-        ],
-        "briefSummary": "To evaluate the efficacy of open-label ganaxolone as adjunctive therapy for uncontrolled seizures in female children with PCDH19 mutation and other rare genetic epilepsies in an open-label proof-of-concept study.",
-        "locationCount": 10
-      },
-      {
-        "nctId": "NCT03861871",
-        "briefTitle": "Fenfluramine in CDKL5 Deficiency Disorder (CDD)",
-        "status": "COMPLETED",
-        "phase": "PHASE2",
-        "conditions": [
-          "CDD"
-        ],
-        "briefSummary": "This study will be enrolling 10 patients, ages 2-18 years old, with a confirmed genetic/clinical diagnosis of CDKL5 Deficiency Disorder (CDD) in an open label trial of fenfluramine for seizure control. Patients will be titrated over 14 days to a dose of ZX008 0.8 mg/kg/day (maximum dose 30 mg/d).",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT05558371",
-        "briefTitle": "International CDKL5 Clinical Research Network",
-        "status": "RECRUITING",
-        "phase": "",
-        "conditions": [
-          "CDKL5",
-          "CDKL5 Deficiency Disorder",
-          "CDD"
-        ],
-        "briefSummary": "Pathogenic variants in the Cyclin-dependent kinase like 5 (CDKL5) gene cause CDKL5 deficiency disorder (CDD, MIM 300672, 105830), a severe developmental and epileptic encephalopathy associated with cognitive and motor impairments and cortical visual impairment. While capability for disease modifying",
-        "locationCount": 9
-      },
-      {
-        "nctId": "NCT06448663",
-        "briefTitle": "Targeting the Gut to Improve Seizure Control in CDKL5 Deficiency Disorder (CDD)",
-        "status": "RECRUITING",
-        "phase": "NA",
-        "conditions": [
-          "CDKL5"
-        ],
-        "briefSummary": "Standard anti-seizure medications have limited efficacy in seizure control in cyclin-dependent kinase-like 5 deficiency disorder (CDD).\n\nThe study will investigate whether targeting the gut-microbiota-brain axis in CDD patients can alleviate seizures and ameliorate other comorbidities.",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT05064878",
-        "briefTitle": "A Phase 3 Study to Examine the Efficacy and Safety of ZX008 in Subjects With CDKL5 Deficiency Disorder.",
-        "status": "ACTIVE_NOT_RECRUITING",
-        "phase": "PHASE3",
-        "conditions": [
-          "CDKL5 Deficiency Disorder",
-          "Generalized Tonic Clonic Seizure",
-          "Epileptic Spasm",
-          "Refractory Seizures"
-        ],
-        "briefSummary": "This is a Phase 3 Study to examine the efficacy and safety of ZX008 in children and adults with cyclin-dependent kinase like-5 (CDKL5) deficiency disorder (CDD).",
-        "locationCount": 46
-      },
-      {
-        "nctId": "NCT05373719",
-        "briefTitle": "Observational Study in Patients With Cyclin-dependent Kinase-like 5 Deficiency Disorder",
-        "status": "ACTIVE_NOT_RECRUITING",
-        "phase": "",
-        "conditions": [
-          "Cyclin-Dependent Kinase-Like 5 Deficiency Disorder"
-        ],
-        "briefSummary": "Observational, noninterventional, 3-year study to examine the presence of detectable differences in neurocognitive, developmental, motor, neurophysiologic, and quality of life measures over time in patients with cyclin-dependent kinase-like 5 deficiency disorder.",
-        "locationCount": 23
-      },
-      {
-        "nctId": "NCT04486768",
-        "briefTitle": "International CDKL5 Registry",
-        "status": "SUSPENDED",
-        "phase": "",
-        "conditions": [
-          "CDKL5 Deficiency Disorder (CDD)"
-        ],
-        "briefSummary": "Owing to the recent classification of CDKL5 Deficiency Disorder (CDD) as a unique disorder, there is a limited understanding of overall disease natural history and meaningful outcome measures. An international patient registry aimed at collecting both patient/caregiver and clinician-entered demograp",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT04678479",
-        "briefTitle": "Ganaxolone Expanded Access Program Compassionate Use",
-        "status": "NO_LONGER_AVAILABLE",
-        "phase": "",
-        "conditions": [
-          "CDKL5 Disorder"
-        ],
-        "briefSummary": "The primary objective is to provide GNX to patients \u2265 2 years with CDD-related seizures who are refractory to, or intolerant of, standard therapy.",
-        "locationCount": 0
-      },
-      {
-        "nctId": "NCT07602205",
-        "briefTitle": "Efficacy and Safety of Daily Home-based Hyperthermic Baths for Reducing Epileptic Seizures in CDKL5 Deficiency Disorder: A PROBE Clinical Trial",
-        "status": "NOT_YET_RECRUITING",
-        "phase": "NA",
-        "conditions": [
-          "CDKL5 Deficiency Disorder"
-        ],
-        "briefSummary": "The primary objective of this research is to study the efficacy and safety of daily, home-based hyperthermic baths for reducing epileptic seizures in CDKL5 Deficiency Disorder.",
-        "locationCount": 0
-      },
-      {
-        "nctId": "NCT03635073",
-        "briefTitle": "A Study of Soticlestat in Adults and Children With Rare Epilepsies",
-        "status": "TERMINATED",
-        "phase": "PHASE2",
-        "conditions": [
-          "Epilepsy",
-          "Dravet Syndrome (DS)",
-          "Lennox-Gastaut Syndrome (LGS)"
-        ],
-        "briefSummary": "The main aim is to assess the long-term safety and tolerability of soticlestat when used along with other anti-seizure treatment.\n\nParticipants will receive soticlestat twice a day. Participants will visit the study clinic every 2-6 months throughout the study.\n\nStudy treatments may continue as long",
-        "locationCount": 59
-      },
-      {
-        "nctId": "NCT06663163",
-        "briefTitle": "The Association Between Fever and CDKL5 Deficiency Disorder: a Nationwide Survey",
-        "status": "COMPLETED",
-        "phase": "",
-        "conditions": [
-          "CDKL5 Deficiency Disorder"
-        ],
-        "briefSummary": "The primary objective of this research is to study the effects of fever on seizure activity in patients with CDKL5 deficiency disorder",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT05249556",
-        "briefTitle": "Double-blind, Randomized, Placebo-controlled Trial of Ganaxolone in CDKL5 Deficiency Patients 6 Months to Less Than 2 Years Old",
-        "status": "NOT_YET_RECRUITING",
-        "phase": "PHASE3",
-        "conditions": [
-          "CDKL5 Deficiency Disorder"
-        ],
-        "briefSummary": "This study will assess the efficacy, safety, and tolerability of ganaxolone (GNX) compared with placebo (PBO) as adjunctive therapy to the participant's standard anti-epileptic medication for the treatment of seizures in pediatric patients from 6 months to less than 2 years old with genetically conf",
-        "locationCount": 0
-      },
-      {
-        "nctId": "NCT06447675",
-        "briefTitle": "Efficacy and Safety Evaluation of Hyperthermic Baths in the Treatment of Seizures in CDKL5 Deficiency Disorder",
-        "status": "COMPLETED",
-        "phase": "NA",
-        "conditions": [
-          "CDKL5 Deficiency Disorder"
-        ],
-        "briefSummary": "The primary objective of this research is to study the efficacy and safety of hyperthermic baths as adjunctive therapy for reducing the frequency of seizures in CDKL5 deficiency.",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT03572933",
-        "briefTitle": "Study of Adjunctive Ganaxolone Treatment in Children and Young Adults With CDKL5 Deficiency Disorder",
-        "status": "COMPLETED",
-        "phase": "PHASE3",
-        "conditions": [
-          "CDKL5 Deficiency Disorder"
-        ],
-        "briefSummary": "A clinical study to evaluate the efficacy, safety, and tolerability of adjunctive ganaxolone therapy compared to placebo for the treatment of seizures in children and young adults with genetically confirmed CDKL5 gene mutation.",
-        "locationCount": 36
       }
     ],
     "eb": [
@@ -11857,19 +11819,6 @@
         "locationCount": 15
       },
       {
-        "nctId": "NCT02839720",
-        "briefTitle": "Selumetinib in Treating Patients With Neurofibromatosis Type 1 and Cutaneous Neurofibroma",
-        "status": "COMPLETED",
-        "phase": "PHASE2",
-        "conditions": [
-          "Cutaneous Neurofibroma",
-          "Neurofibromatosis Type 1",
-          "Optic Nerve Glioma"
-        ],
-        "briefSummary": "This pilot phase II trial studies how well selumetinib works in treating patients with neurofibromatosis type 1 and cutaneous neurofibromas. Selumetinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
-        "locationCount": 2
-      },
-      {
         "nctId": "NCT00006435",
         "briefTitle": "Study of Plexiform Neurofibromas in Neurofibromatosis Type 1",
         "status": "COMPLETED",
@@ -11880,19 +11829,6 @@
         ],
         "briefSummary": "Background:\n\n-Plexiform neurofibromas in patients with NF1 are a significant cause of morbidity but little is known about the natural history of these lesions.\n\nObjectives:\n\n* The purpose of this study is to monitor the natural history of plexiform neurofibromas and to evaluate the usefulness of vol",
         "locationCount": 1
-      },
-      {
-        "nctId": "NCT03363217",
-        "briefTitle": "Trametinib for Pediatric Neuro-oncology Patients With Refractory Tumor and Activation of the MAPK/ERK Pathway.",
-        "status": "ACTIVE_NOT_RECRUITING",
-        "phase": "PHASE2",
-        "conditions": [
-          "Low-grade Glioma",
-          "Plexiform Neurofibroma",
-          "Central Nervous System Glioma"
-        ],
-        "briefSummary": "This is a phase 2, open-label, interventional clinical trial that will study the response rate of pediatric glioma and plexiform neurofibroma (PN) to oral administration of trametinib. Patients meeting all inclusion criteria for a given study group will receive the study medication at a daily dose o",
-        "locationCount": 7
       },
       {
         "nctId": "NCT05361811",
@@ -11908,22 +11844,6 @@
         ],
         "briefSummary": "Background:\n\nRASopathies are a group of genetic diseases that affect a child s development. They cause physical, cognitive, and behavioral symptoms. Caring for a child with a RASopathy can be stressful. Acceptance and Commitment Therapy (ACT) is a therapy that helps people become more aware and acce",
         "locationCount": 1
-      },
-      {
-        "nctId": "NCT04166409",
-        "briefTitle": "A Study of the Drugs Selumetinib vs. Carboplatin and Vincristine in Patients With Low-Grade Glioma",
-        "status": "RECRUITING",
-        "phase": "PHASE3",
-        "conditions": [
-          "Low Grade Astrocytoma",
-          "Low Grade Glioma",
-          "Metastatic Low Grade Astrocytoma",
-          "Metastatic Low Grade Glioma",
-          "WHO Grade 1 Glioma",
-          "WHO Grade 2 Glioma"
-        ],
-        "briefSummary": "This phase III trial compares the effect of selumetinib versus the standard of care treatment with carboplatin and vincristine (CV) in treating patients with newly diagnosed or previously untreated low-grade glioma (LGG) that does not have a genetic abnormality called BRAFV600E mutation and is not a",
-        "locationCount": 132
       },
       {
         "nctId": "NCT02964884",
@@ -11982,18 +11902,6 @@
           "Neurofibromatosis 1"
         ],
         "briefSummary": "Children with neurofibromatosis type 1 (NF1) commonly suffer from the effects of cognitive, behavioral, and motor impairments. At present, there is no specific treatment for this NF1 complication. In this project, the investigators will assess the safety and clinical benefit of N-acetylcysteine (NAC",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT06502171",
-        "briefTitle": "Study of Cabozantinib With Selumetinib for Plexiform Neurofibromas",
-        "status": "NOT_YET_RECRUITING",
-        "phase": "PHASE1",
-        "conditions": [
-          "Neurofibromatosis 1",
-          "Plexiform Neurofibroma"
-        ],
-        "briefSummary": "Based on the clinical activity of both selumetinib and cabozantinib as monotherapies in clinical trials, the demonstrated activity of these agents in reduced doses in preclinical studies, and the non-overlapping toxicity profiles, the study will assess the tolerability and efficacy of selumetinib an",
         "locationCount": 1
       },
       {
@@ -12266,17 +12174,6 @@
         "locationCount": 4
       },
       {
-        "nctId": "NCT03688568",
-        "briefTitle": "Study of Imatinib in Children With Neurofibromatosis and Airway Tumors",
-        "status": "WITHDRAWN",
-        "phase": "PHASE2",
-        "conditions": [
-          "Neurofibroma, Plexiform"
-        ],
-        "briefSummary": "The purpose of this study is to look at a subset of plexiform neurofibromas and determine if the airway tumors are more sensitive to imatinib therapy. Funding Source - FDA OOPD",
-        "locationCount": 1
-      },
-      {
         "nctId": "NCT03310996",
         "briefTitle": "Non-invasive Stimulation in Neurofibromatosis Type 1",
         "status": "COMPLETED",
@@ -12286,38 +12183,6 @@
         ],
         "briefSummary": "Intellectual impairments are a significant cause of morbidity in children with birth defects along with long term implication on academic and occupational functioning. Long lasting functional changes in the brain occur when children learn new things or memorise new information. Enhancing this and le",
         "locationCount": 1
-      },
-      {
-        "nctId": "NCT05005845",
-        "briefTitle": "NFX-179 Topical Gel Treatment for Adults With Neurofibromatosis 1 (NF1) and Cutaneous Neurofibromas (cNF)",
-        "status": "COMPLETED",
-        "phase": "PHASE2",
-        "conditions": [
-          "Cutaneous Neurofibroma",
-          "Neurofibromatosis 1"
-        ],
-        "briefSummary": "This is a randomized, double-blind, vehicle-controlled, parallel group dose response study evaluating the safety and effectiveness of 2 concentrations of NFX-179 gel in participants with cNF. At Visit 1 (Screening visit), the investigator will identify 10 Target cNFs that fulfil the enrollment crite",
-        "locationCount": 23
-      },
-      {
-        "nctId": "NCT06287463",
-        "briefTitle": "Study of DCC-3084 in Participants With Advanced Malignancies Driven by the Mitogen-Activated Protein Kinase (MAPK) Pathway",
-        "status": "TERMINATED",
-        "phase": "PHASE1",
-        "conditions": [
-          "Advanced Solid Tumor",
-          "RAF Mutation",
-          "RAS Mutation",
-          "NF1 Mutation",
-          "Non-Small Cell Lung Cancer",
-          "Pancreatic Ductal Adenocarcinoma",
-          "Melanoma",
-          "BRAF Gene Mutation",
-          "CRAF Gene Mutation",
-          "Castration-Resistant Prostate Cancer (CRPC)"
-        ],
-        "briefSummary": "This is a multicenter clinical trial to evaluate DCC-3084 alone or in combination with other cancer therapies in participants with advanced cancers. Module A will enroll participants with advanced/metastatic solid tumors. Additional modules exploring other cancers may be added to the master protocol",
-        "locationCount": 9
       },
       {
         "nctId": "NCT02211768",
@@ -12330,17 +12195,6 @@
         ],
         "briefSummary": "Background:\\<TAB\\>\n\n\\- Many people with neurofibromatosis type 1 (NF1) get tumors of the nervous system. Finding malignant tumors early is important for removing them. Researchers want to find ways of doing this with scans and genetic testing.\n\nObjectives:\n\n\\- To learn more about neurofibromatosis t",
         "locationCount": 1
-      },
-      {
-        "nctId": "NCT02096471",
-        "briefTitle": "MEK Inhibitor PD-0325901 Trial in Adolescents and Adults With NF1",
-        "status": "COMPLETED",
-        "phase": "PHASE2",
-        "conditions": [
-          "Neurofibromatosis Type 1 and Growing or Symptomatic, Inoperable PN"
-        ],
-        "briefSummary": "This phase II open label study will evaluate adolescents (\u2265 16 years of age) and adults with neurofibromatosis type-1 (NF1) and plexiform neurofibromas treated with the MEK inhibitor PD-0325901. The primary aim of the study will be to assess quantitative radiographic response in a target lesion. Sub",
-        "locationCount": 11
       },
       {
         "nctId": "NCT03231306",
@@ -12405,17 +12259,6 @@
         "locationCount": 1
       },
       {
-        "nctId": "NCT06541847",
-        "briefTitle": "A Phase 2, Open-Label Study to Evaluate the Safety and Effects of HLX-1502 in Patients With Neurofibromatosis Type 1",
-        "status": "RECRUITING",
-        "phase": "PHASE2",
-        "conditions": [
-          "Neurofibromatosis Type 1"
-        ],
-        "briefSummary": "The trial will be an open label, single arm, phase 2 study to assess the tolerability and efficacy of HLX-1502 in participants with NF1 that are 16 years or older in age with progressive and/or symptomatic PN. This study will also investigate the safety and efficacy of HLX-1502 in a small cohort of ",
-        "locationCount": 14
-      },
-      {
         "nctId": "NCT03359304",
         "briefTitle": "The Neurofibromatosis-associated Tumor Biobank",
         "status": "NOT_YET_RECRUITING",
@@ -12466,31 +12309,6 @@
         ],
         "briefSummary": "This study will examine whether the experimental drug R115777 (Tipifarnib) can shrink or slow the growth of plexiform neurofibromas in children and young adults with neurofibromatosis type 1 (NF1) and determine what side effects are related to treatment. Plexiform tumors arise from nerves; the only ",
         "locationCount": 12
-      },
-      {
-        "nctId": "NCT05253131",
-        "briefTitle": "Trial of Selumetinib and Bromodomain Inhibitor With Durvalumab for Sarcomas",
-        "status": "NOT_YET_RECRUITING",
-        "phase": "PHASE2",
-        "conditions": [
-          "MPNST",
-          "NF1",
-          "Sarcoma"
-        ],
-        "briefSummary": "A multi-institutional open-label phase 1/2 trial of selumetinib in combination with ZEN-3694 and durvalumab in refractory/unresectable sarcomas including MPNST. The phase 1 portion will be separated in two parts and will be open to all patients with refractory/relapsed sarcomas. The phase 2 portion ",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT02407405",
-        "briefTitle": "MEK 1/2 Inhibitor Selumetinib (AZD6244 Hydrogen Sulfate) in Adults With Neurofibromatosis Type 1 (NF1) and Inoperable Plexiform Neurofibromas",
-        "status": "ACTIVE_NOT_RECRUITING",
-        "phase": "PHASE2",
-        "conditions": [
-          "Neurofibromatosis 1 (NF1)",
-          "Plexiform Neurofibromas (PN)"
-        ],
-        "briefSummary": "Background:\n\nNeurofibromatosis type 1 (NF1) is a disorder that can cause plexiform neurofibromas (PNs). These are tumors that grow along nerves. Some PNs cause serious health problems. PNs often can t be operated on because of their large size, location, or number. There are no effective treatments ",
-        "locationCount": 1
       },
       {
         "nctId": "NCT00824278",
@@ -12826,28 +12644,6 @@
         "locationCount": 1
       },
       {
-        "nctId": "NCT03989115",
-        "briefTitle": "Dose-Esc/Exp RMC4630 & Cobi in Relapsed/Refractory Solid Tumors & RMC4630& Osi in EGFR+ Locally Adv/Meta NSCLC",
-        "status": "COMPLETED",
-        "phase": "PHASE1",
-        "conditions": [
-          "Solid Tumor"
-        ],
-        "briefSummary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetic (PK), and pharmacodynamic (PD) pro\ufb01les of RMC-4630 and cobimetinib in adult participants with relapsed/refractory solid tumors with specific genomic aberrations and to identify the recommended Phase 2 dose (RP2D); and",
-        "locationCount": 24
-      },
-      {
-        "nctId": "NCT06381570",
-        "briefTitle": "Pilot Study of Vinblastine and Tovorafenib in Pediatric Patients With Recurrent/Progressive RAF Altered Low Grade Gliomas",
-        "status": "RECRUITING",
-        "phase": "EARLY_PHASE1",
-        "conditions": [
-          "Low-grade Glioma"
-        ],
-        "briefSummary": "This is a Pilot, multicenter, open-label study of patients less than or equal to 25 years, with recurrent or progressive LGG harboring a CRAF or BRAF alteration, including BRAF V600 mutations and KIAA1549: BRAF fusions. Patients with BRAF or CRAF alterations will be identified through molecular assa",
-        "locationCount": 1
-      },
-      {
         "nctId": "NCT00716469",
         "briefTitle": "Phase I Clinical Study of the Safety of Photodynamic Therapy (PDT) Using LS11 in Children With Plexiform Neurofibromas",
         "status": "TERMINATED",
@@ -12883,30 +12679,6 @@
         "locationCount": 2
       },
       {
-        "nctId": "NCT06188741",
-        "briefTitle": "Selumetinib for the Prevention of Plexiform Neurofibroma Growth in NF Type 1",
-        "status": "RECRUITING",
-        "phase": "PHASE2",
-        "conditions": [
-          "Neurofibromatosis 1",
-          "Plexiform Neurofibroma"
-        ],
-        "briefSummary": "Plexiform neurofibromas (PN) are known to cause significant morbidity in children with NF1. The recent FDA approval for selumetinib in children 2 years and older with inoperable symptomatic PN was based on the finding that selumetinib shrinks the majority of PN in children with NF1 and results in cl",
-        "locationCount": 15
-      },
-      {
-        "nctId": "NCT04924608",
-        "briefTitle": "Efficacy and Safety of Selumetinib in Adults With NF1 Who Have Symptomatic, Inoperable Plexiform Neurofibromas",
-        "status": "ACTIVE_NOT_RECRUITING",
-        "phase": "PHASE3",
-        "conditions": [
-          "Neurofibromatosis 1",
-          "Plexiform Neurofibroma (PN)"
-        ],
-        "briefSummary": "A global study to demonstrate the effectiveness of selumetinib in participants with NF1 who have symptomatic, inoperable plexiform neurofibromas.",
-        "locationCount": 34
-      },
-      {
         "nctId": "NCT03326388",
         "briefTitle": "Intermittent Dosing Of Selumetinib In Childhood NF1 Associated Tumours",
         "status": "COMPLETED",
@@ -12918,31 +12690,6 @@
         ],
         "briefSummary": "Phase I and II study of the MEK inhibitor Selumetinib given twice daily on 5 out of 7 days in children with NF1 and inoperable plexiform neurofibromas or progressive/relapsed optic pathway gliomas.\n\nThis study will test the early and late toxicities of selumetinib when it is given in this intermitte",
         "locationCount": 2
-      },
-      {
-        "nctId": "NCT03109301",
-        "briefTitle": "Mitogen Activated Protein Kinase Kinase (MEK1/2) Inhibitor Selumetinib (AZD6244 Hydrogen Sulfate) in People With Neurofibromatosis Type 1 (NF1) Mutated Gastrointestinal Stromal Tumors (GIST)",
-        "status": "WITHDRAWN",
-        "phase": "PHASE2",
-        "conditions": [
-          "Neoplasms, Nerve Tissue",
-          "Neurofibromatosis 1",
-          "Heredodegenerative Disorders, Nervous System",
-          "Peripheral Nervous System Diseases"
-        ],
-        "briefSummary": "Background:\n\nGastrointestinal stromal tumors (GIST) can cause serious medical problems. The only known treatment is surgery. But completely removing a GIST tumor with surgery is often not possible. Researchers want to see if a new drug, selumetinib, can help treat these tumors.\n\nObjective:\n\nTo find ",
-        "locationCount": 0
-      },
-      {
-        "nctId": "NCT06175637",
-        "briefTitle": "Observational Study to Evaluate the Effect and Safety of Selumetinib in Pediatric Patients With NF1-PNs",
-        "status": "ACTIVE_NOT_RECRUITING",
-        "phase": "",
-        "conditions": [
-          "Neurofibroma, Plexiform"
-        ],
-        "briefSummary": "This is a prospective, multicenter, observational study of Chinese pediatric NF1-PN patients treated with selumetinib. The study will be conducted at approximately 12 centers in China and will include approximately 80-100 patients. Treatment centers that have PN diagnosis and/or selumetinib treatmen",
-        "locationCount": 25
       },
       {
         "nctId": "NCT06360406",
@@ -12969,18 +12716,6 @@
         "locationCount": 10
       },
       {
-        "nctId": "NCT03433183",
-        "briefTitle": "SARC031: MEK Inhibitor Selumetinib (AZD6244) in Combination With the mTOR Inhibitor Sirolimus for Patients With Malignant Peripheral Nerve Sheath Tumors",
-        "status": "COMPLETED",
-        "phase": "PHASE2",
-        "conditions": [
-          "Malignant Peripheral Nerve Sheath Tumors",
-          "Neurofibromatosis 1"
-        ],
-        "briefSummary": "To determine the clinical benefit rate of selumetinib in combination with sirolimus in patients with unresectable or metastatic neurofibromatosis type 1 (NF1) associated or sporadic MPNST.",
-        "locationCount": 5
-      },
-      {
         "nctId": "NCT06735820",
         "briefTitle": "Early Phase Study Evaluating MEK and MDM2 Inhibition in Patients With NF1 and MPNST",
         "status": "NOT_YET_RECRUITING",
@@ -12991,17 +12726,6 @@
           "Atypical Neurofibroma"
         ],
         "briefSummary": "This is a phase 0/1/2, multi-site study to evaluate the MEK inhibitor Selumetinib with the MDM2 Inhibitor APG-115 in patients with Neurofibromatosis Type 1 and pre-malignant and malignant peripheral nerve sheath tumors",
-        "locationCount": 1
-      },
-      {
-        "nctId": "NCT04879160",
-        "briefTitle": "Systematically Assessing Changes in Plexiform Neurofibroma Related Disfigurement From Photographs of Subjects With Neurofibromatosis Type 1 on a Phase 2 Clinical Trial",
-        "status": "COMPLETED",
-        "phase": "",
-        "conditions": [
-          "Neurofibromatosis 1"
-        ],
-        "briefSummary": "Background:\n\nPeople with Neurofibromatosis type 1 (NF1) have an increased risk of developing plexiform neurofibromas (PNs). PNs are tumors that form in the tissue. They can form anywhere in the body. They can become visible and cause deformations. Researchers want to see if selumetinib changes how P",
         "locationCount": 1
       },
       {
@@ -14421,6 +14145,42 @@
     ],
     "nf2": [
       {
+        "nctId": "NCT06523582",
+        "briefTitle": "Genetic Bases of Neuroendocrine Neoplasms in Mexican Patients",
+        "status": "RECRUITING",
+        "phase": "",
+        "conditions": [
+          "Neuroendocrine Neoplasm",
+          "Neuroendocrine Neoplasm of Gastrointestinal Tract",
+          "Neuroendocrine Neoplasm of Lung",
+          "Thymic Neuroendocrine Neoplasm",
+          "Neuroendocrine Tumor of Pancreas",
+          "Gastrointestinal Stromal Tumors",
+          "Medullary Thyroid Cancer",
+          "Paraganglioma",
+          "Pheochromocytoma",
+          "Primary Hyperparathyroidism",
+          "Pituitary Tumor",
+          "Multiple Endocrine Neoplasia Type 1",
+          "Multiple Endocrine Neoplasia Type 2",
+          "Multiple Endocrine Neoplasia Type 4",
+          "Carney Complex",
+          "Carney Stratakis Dyad",
+          "Carney Triad",
+          "Cowden Syndrome",
+          "DICER1 Syndrome",
+          "Li-Fraumeni Syndrome",
+          "Lynch Syndrome",
+          "Von Hippel-Lindau Disease",
+          "Familial Isolated Pituitary Adenoma",
+          "X-Linked Acrogigantism",
+          "Neurofibromatosis 1",
+          "Tuberous Sclerosis"
+        ],
+        "briefSummary": "Neuroendocrine neoplasms (NENs) are a heterogeneous group of lesions derived from cells with the ability to produce hormones that may arise from multiple different organs. Their clinical behavior is quite variable, encompassing both benign lesions and aggressive tumors that invade surrounding and/or",
+        "locationCount": 3
+      },
+      {
         "nctId": "NCT06322342",
         "briefTitle": "Phase 2 Ascending Dose Safety and Efficacy Study of RVP-001, a Manganese-based MRI Contrast Agent",
         "status": "COMPLETED",
@@ -14571,6 +14331,32 @@
         "locationCount": 1
       },
       {
+        "nctId": "NCT02839720",
+        "briefTitle": "Selumetinib in Treating Patients With Neurofibromatosis Type 1 and Cutaneous Neurofibroma",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Cutaneous Neurofibroma",
+          "Neurofibromatosis Type 1",
+          "Optic Nerve Glioma"
+        ],
+        "briefSummary": "This pilot phase II trial studies how well selumetinib works in treating patients with neurofibromatosis type 1 and cutaneous neurofibromas. Selumetinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
+        "locationCount": 2
+      },
+      {
+        "nctId": "NCT03363217",
+        "briefTitle": "Trametinib for Pediatric Neuro-oncology Patients With Refractory Tumor and Activation of the MAPK/ERK Pathway.",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Low-grade Glioma",
+          "Plexiform Neurofibroma",
+          "Central Nervous System Glioma"
+        ],
+        "briefSummary": "This is a phase 2, open-label, interventional clinical trial that will study the response rate of pediatric glioma and plexiform neurofibroma (PN) to oral administration of trametinib. Patients meeting all inclusion criteria for a given study group will receive the study medication at a daily dose o",
+        "locationCount": 7
+      },
+      {
         "nctId": "NCT01345136",
         "briefTitle": "Study of RAD001 for Treatment of NF2-related Vestibular Schwannoma",
         "status": "TERMINATED",
@@ -14580,6 +14366,34 @@
           "Neuroma, Acoustic"
         ],
         "briefSummary": "The purpose of the study is to determine if RAD001 treatment will shrink or slow the growth of the vestibular schwannoma(s) in Neurofibromatosis 2 (NF2) patients. Secondary objectives include determining if RAD001 treatment will improve hearing ability in NF2 patients.\n\nRAD001 is an oral drug that i",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT04166409",
+        "briefTitle": "A Study of the Drugs Selumetinib vs. Carboplatin and Vincristine in Patients With Low-Grade Glioma",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "conditions": [
+          "Low Grade Astrocytoma",
+          "Low Grade Glioma",
+          "Metastatic Low Grade Astrocytoma",
+          "Metastatic Low Grade Glioma",
+          "WHO Grade 1 Glioma",
+          "WHO Grade 2 Glioma"
+        ],
+        "briefSummary": "This phase III trial compares the effect of selumetinib versus the standard of care treatment with carboplatin and vincristine (CV) in treating patients with newly diagnosed or previously untreated low-grade glioma (LGG) that does not have a genetic abnormality called BRAFV600E mutation and is not a",
+        "locationCount": 132
+      },
+      {
+        "nctId": "NCT06502171",
+        "briefTitle": "Study of Cabozantinib With Selumetinib for Plexiform Neurofibromas",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE1",
+        "conditions": [
+          "Neurofibromatosis 1",
+          "Plexiform Neurofibroma"
+        ],
+        "briefSummary": "Based on the clinical activity of both selumetinib and cabozantinib as monotherapies in clinical trials, the demonstrated activity of these agents in reduced doses in preclinical studies, and the non-overlapping toxicity profiles, the study will assess the tolerability and efficacy of selumetinib an",
         "locationCount": 1
       },
       {
@@ -14635,6 +14449,29 @@
         "locationCount": 0
       },
       {
+        "nctId": "NCT03688568",
+        "briefTitle": "Study of Imatinib in Children With Neurofibromatosis and Airway Tumors",
+        "status": "WITHDRAWN",
+        "phase": "PHASE2",
+        "conditions": [
+          "Neurofibroma, Plexiform"
+        ],
+        "briefSummary": "The purpose of this study is to look at a subset of plexiform neurofibromas and determine if the airway tumors are more sensitive to imatinib therapy. Funding Source - FDA OOPD",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT05005845",
+        "briefTitle": "NFX-179 Topical Gel Treatment for Adults With Neurofibromatosis 1 (NF1) and Cutaneous Neurofibromas (cNF)",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Cutaneous Neurofibroma",
+          "Neurofibromatosis 1"
+        ],
+        "briefSummary": "This is a randomized, double-blind, vehicle-controlled, parallel group dose response study evaluating the safety and effectiveness of 2 concentrations of NFX-179 gel in participants with cNF. At Visit 1 (Screening visit), the investigator will identify 10 Target cNFs that fulfil the enrollment crite",
+        "locationCount": 23
+      },
+      {
         "nctId": "NCT02435628",
         "briefTitle": "Relationship Between Psychosocial Factors, Health Literacy, Quality of Life and Satisfaction With Medical Visits in Adults With NF",
         "status": "COMPLETED",
@@ -14644,6 +14481,37 @@
         ],
         "briefSummary": "This is a prospective study through the NF clinic at Massachusetts General Hospital that will examine the relationship between psychosocial factors, health literacy, and satisfaction with the medical visit in adults with NF1, NF2, and Schwannomatosis. A total of 89 participants will be enrolled in t",
         "locationCount": 1
+      },
+      {
+        "nctId": "NCT06287463",
+        "briefTitle": "Study of DCC-3084 in Participants With Advanced Malignancies Driven by the Mitogen-Activated Protein Kinase (MAPK) Pathway",
+        "status": "TERMINATED",
+        "phase": "PHASE1",
+        "conditions": [
+          "Advanced Solid Tumor",
+          "RAF Mutation",
+          "RAS Mutation",
+          "NF1 Mutation",
+          "Non-Small Cell Lung Cancer",
+          "Pancreatic Ductal Adenocarcinoma",
+          "Melanoma",
+          "BRAF Gene Mutation",
+          "CRAF Gene Mutation",
+          "Castration-Resistant Prostate Cancer (CRPC)"
+        ],
+        "briefSummary": "This is a multicenter clinical trial to evaluate DCC-3084 alone or in combination with other cancer therapies in participants with advanced cancers. Module A will enroll participants with advanced/metastatic solid tumors. Additional modules exploring other cancers may be added to the master protocol",
+        "locationCount": 9
+      },
+      {
+        "nctId": "NCT02096471",
+        "briefTitle": "MEK Inhibitor PD-0325901 Trial in Adolescents and Adults With NF1",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Neurofibromatosis Type 1 and Growing or Symptomatic, Inoperable PN"
+        ],
+        "briefSummary": "This phase II open label study will evaluate adolescents (\u2265 16 years of age) and adults with neurofibromatosis type-1 (NF1) and plexiform neurofibromas treated with the MEK inhibitor PD-0325901. The primary aim of the study will be to assess quantitative radiographic response in a target lesion. Sub",
+        "locationCount": 11
       },
       {
         "nctId": "NCT00598351",
@@ -14657,6 +14525,42 @@
         "locationCount": 1
       },
       {
+        "nctId": "NCT06541847",
+        "briefTitle": "A Phase 2, Open-Label Study to Evaluate the Safety and Effects of HLX-1502 in Patients With Neurofibromatosis Type 1",
+        "status": "RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Neurofibromatosis Type 1"
+        ],
+        "briefSummary": "The trial will be an open label, single arm, phase 2 study to assess the tolerability and efficacy of HLX-1502 in participants with NF1 that are 16 years or older in age with progressive and/or symptomatic PN. This study will also investigate the safety and efficacy of HLX-1502 in a small cohort of ",
+        "locationCount": 14
+      },
+      {
+        "nctId": "NCT05253131",
+        "briefTitle": "Trial of Selumetinib and Bromodomain Inhibitor With Durvalumab for Sarcomas",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "MPNST",
+          "NF1",
+          "Sarcoma"
+        ],
+        "briefSummary": "A multi-institutional open-label phase 1/2 trial of selumetinib in combination with ZEN-3694 and durvalumab in refractory/unresectable sarcomas including MPNST. The phase 1 portion will be separated in two parts and will be open to all patients with refractory/relapsed sarcomas. The phase 2 portion ",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT02407405",
+        "briefTitle": "MEK 1/2 Inhibitor Selumetinib (AZD6244 Hydrogen Sulfate) in Adults With Neurofibromatosis Type 1 (NF1) and Inoperable Plexiform Neurofibromas",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Neurofibromatosis 1 (NF1)",
+          "Plexiform Neurofibromas (PN)"
+        ],
+        "briefSummary": "Background:\n\nNeurofibromatosis type 1 (NF1) is a disorder that can cause plexiform neurofibromas (PNs). These are tumors that grow along nerves. Some PNs cause serious health problems. PNs often can t be operated on because of their large size, location, or number. There are no effective treatments ",
+        "locationCount": 1
+      },
+      {
         "nctId": "NCT00004483",
         "briefTitle": "NF2 Natural History Consortium",
         "status": "UNKNOWN",
@@ -14667,6 +14571,100 @@
           "Meningioma"
         ],
         "briefSummary": "OBJECTIVES:\n\nI. Define the growth rates and clinical course of NF2-related tumors in patients with neurofibromatosis type 2. Associate growth rate with physical function.",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT03989115",
+        "briefTitle": "Dose-Esc/Exp RMC4630 & Cobi in Relapsed/Refractory Solid Tumors & RMC4630& Osi in EGFR+ Locally Adv/Meta NSCLC",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "conditions": [
+          "Solid Tumor"
+        ],
+        "briefSummary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetic (PK), and pharmacodynamic (PD) pro\ufb01les of RMC-4630 and cobimetinib in adult participants with relapsed/refractory solid tumors with specific genomic aberrations and to identify the recommended Phase 2 dose (RP2D); and",
+        "locationCount": 24
+      },
+      {
+        "nctId": "NCT06381570",
+        "briefTitle": "Pilot Study of Vinblastine and Tovorafenib in Pediatric Patients With Recurrent/Progressive RAF Altered Low Grade Gliomas",
+        "status": "RECRUITING",
+        "phase": "EARLY_PHASE1",
+        "conditions": [
+          "Low-grade Glioma"
+        ],
+        "briefSummary": "This is a Pilot, multicenter, open-label study of patients less than or equal to 25 years, with recurrent or progressive LGG harboring a CRAF or BRAF alteration, including BRAF V600 mutations and KIAA1549: BRAF fusions. Patients with BRAF or CRAF alterations will be identified through molecular assa",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT06188741",
+        "briefTitle": "Selumetinib for the Prevention of Plexiform Neurofibroma Growth in NF Type 1",
+        "status": "RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Neurofibromatosis 1",
+          "Plexiform Neurofibroma"
+        ],
+        "briefSummary": "Plexiform neurofibromas (PN) are known to cause significant morbidity in children with NF1. The recent FDA approval for selumetinib in children 2 years and older with inoperable symptomatic PN was based on the finding that selumetinib shrinks the majority of PN in children with NF1 and results in cl",
+        "locationCount": 15
+      },
+      {
+        "nctId": "NCT04924608",
+        "briefTitle": "Efficacy and Safety of Selumetinib in Adults With NF1 Who Have Symptomatic, Inoperable Plexiform Neurofibromas",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE3",
+        "conditions": [
+          "Neurofibromatosis 1",
+          "Plexiform Neurofibroma (PN)"
+        ],
+        "briefSummary": "A global study to demonstrate the effectiveness of selumetinib in participants with NF1 who have symptomatic, inoperable plexiform neurofibromas.",
+        "locationCount": 34
+      },
+      {
+        "nctId": "NCT03109301",
+        "briefTitle": "Mitogen Activated Protein Kinase Kinase (MEK1/2) Inhibitor Selumetinib (AZD6244 Hydrogen Sulfate) in People With Neurofibromatosis Type 1 (NF1) Mutated Gastrointestinal Stromal Tumors (GIST)",
+        "status": "WITHDRAWN",
+        "phase": "PHASE2",
+        "conditions": [
+          "Neoplasms, Nerve Tissue",
+          "Neurofibromatosis 1",
+          "Heredodegenerative Disorders, Nervous System",
+          "Peripheral Nervous System Diseases"
+        ],
+        "briefSummary": "Background:\n\nGastrointestinal stromal tumors (GIST) can cause serious medical problems. The only known treatment is surgery. But completely removing a GIST tumor with surgery is often not possible. Researchers want to see if a new drug, selumetinib, can help treat these tumors.\n\nObjective:\n\nTo find ",
+        "locationCount": 0
+      },
+      {
+        "nctId": "NCT06175637",
+        "briefTitle": "Observational Study to Evaluate the Effect and Safety of Selumetinib in Pediatric Patients With NF1-PNs",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "",
+        "conditions": [
+          "Neurofibroma, Plexiform"
+        ],
+        "briefSummary": "This is a prospective, multicenter, observational study of Chinese pediatric NF1-PN patients treated with selumetinib. The study will be conducted at approximately 12 centers in China and will include approximately 80-100 patients. Treatment centers that have PN diagnosis and/or selumetinib treatmen",
+        "locationCount": 25
+      },
+      {
+        "nctId": "NCT03433183",
+        "briefTitle": "SARC031: MEK Inhibitor Selumetinib (AZD6244) in Combination With the mTOR Inhibitor Sirolimus for Patients With Malignant Peripheral Nerve Sheath Tumors",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Malignant Peripheral Nerve Sheath Tumors",
+          "Neurofibromatosis 1"
+        ],
+        "briefSummary": "To determine the clinical benefit rate of selumetinib in combination with sirolimus in patients with unresectable or metastatic neurofibromatosis type 1 (NF1) associated or sporadic MPNST.",
+        "locationCount": 5
+      },
+      {
+        "nctId": "NCT04879160",
+        "briefTitle": "Systematically Assessing Changes in Plexiform Neurofibroma Related Disfigurement From Photographs of Subjects With Neurofibromatosis Type 1 on a Phase 2 Clinical Trial",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Neurofibromatosis 1"
+        ],
+        "briefSummary": "Background:\n\nPeople with Neurofibromatosis type 1 (NF1) have an increased risk of developing plexiform neurofibromas (PNs). PNs are tumors that form in the tissue. They can form anywhere in the body. They can become visible and cause deformations. Researchers want to see if selumetinib changes how P",
         "locationCount": 1
       },
       {
@@ -14726,6 +14724,21 @@
         "locationCount": 1
       },
       {
+        "nctId": "NCT06961565",
+        "briefTitle": "PAS-004 in Adults Who Have Neurofibromatosis Type 1 With Plexiform Neurofibromas",
+        "status": "RECRUITING",
+        "phase": "PHASE1",
+        "conditions": [
+          "NF1 Mutation",
+          "Neurofibroma Plexiform",
+          "Neurofibroma, Plexiform",
+          "Neurofibromatosis Type 1 (NF1)-Related Plexiform Neurofibromas (PNs)",
+          "Neurofibromatosis Type 1 (NF1)"
+        ],
+        "briefSummary": "The main purpose of this clinical trial is to test PAS-004 in people with at least one symptomatic plexiform neurofibroma due to Neurofibromatosis Type 1 (NF1). The main questions it aims to answer are:\n\n* How well participants are able tolerate different doses of PAS-004, and\n* What side effects PA",
+        "locationCount": 5
+      },
+      {
         "nctId": "NCT02298270",
         "briefTitle": "Resiliency Training for Patients With Neurofibromatosis Via Videoconferencing With Skype",
         "status": "COMPLETED",
@@ -14738,6 +14751,17 @@
         ],
         "briefSummary": "This study tests the efficacy of an 8-week, Skype-based, group resiliency training intervention (The Relaxation Response Resiliency Program) for improving psychological stress in patients with Neurofibromatosis. A control group will receive a general health education curriculum. The investigators hy",
         "locationCount": 1
+      },
+      {
+        "nctId": "NCT00588172",
+        "briefTitle": "Genetic Variation in OCT1 and Response to Metformin",
+        "status": "WITHDRAWN",
+        "phase": "PHASE4",
+        "conditions": [
+          "Type 2 Diabetes"
+        ],
+        "briefSummary": "Type 2 diabetes its microvascular and macrovascular complications have become a major global health problem. Metformin is often used as first-line therapy for this disorder given that it is cheap, may cause weight loss and does not have significant side-effects in healthy patients. On the other hand",
+        "locationCount": 0
       },
       {
         "nctId": "NCT02129647",
@@ -14812,6 +14836,18 @@
         ],
         "briefSummary": "The NF Registry is a database of patient-reported symptoms, treatments, and experiences with their neurofibromatosis disease. It is a contact registry to relay clinical trial opportunities to targeted patient subgroups, and to supply de-identified disease data to researchers. It has the potential to",
         "locationCount": 1
+      },
+      {
+        "nctId": "NCT03962543",
+        "briefTitle": "MEK Inhibitor Mirdametinib (PD-0325901) in Patients With Neurofibromatosis Type 1 Associated Plexiform Neurofibromas",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Plexiform Neurofibroma",
+          "Neurofibromatosis Type 1 (NF1)"
+        ],
+        "briefSummary": "This study evaluates mirdametinib (PD-0325901) in the treatment of symptomatic inoperable neurofibromatosis type-1 (NF1)-associated plexiform neurofibromas (PNs). All participants will receive mirdametinib (PD-0325901). Eligible participants may continue in a long-term follow-up phase.",
+        "locationCount": 50
       },
       {
         "nctId": "NCT04857372",
@@ -15062,6 +15098,17 @@
         "locationCount": 1
       },
       {
+        "nctId": "NCT02986919",
+        "briefTitle": "Study of CPI-0610 in Patients With Malignant Peripheral Nerve Sheath Tumors",
+        "status": "WITHDRAWN",
+        "phase": "PHASE2",
+        "conditions": [
+          "Peripheral Nerve Tumors"
+        ],
+        "briefSummary": "Establish safety and toxicity profile and preliminary response rate of CPI-0610 in MPNST patients and correlate response with pharmacodynamics markers and BET inhibition.",
+        "locationCount": 1
+      },
+      {
         "nctId": "NCT02352844",
         "briefTitle": "Everolimus in Patients With Advanced Solid Malignancies With TSC1, TSC2, NF1, NF2, or STK11 Mutations",
         "status": "COMPLETED",
@@ -15143,6 +15190,19 @@
         "locationCount": 6
       },
       {
+        "nctId": "NCT01661283",
+        "briefTitle": "SARC016: Study of Everolimus With Bevacizumab to Treat Refractory Malignant Peripheral Nerve Sheath Tumors",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Malignant Peripheral Nerve Sheath Tumors",
+          "MPNST",
+          "Sarcoma"
+        ],
+        "briefSummary": "To determine the clinical response rate of everolimus in combination with bevacizumab for patients with chemotherapy refractory sporadic or neurofibromatosis type 1 (NF1) associated malignant peripheral nerve sheath tumor (MPNST). To evaluate the toxicity and safety of everolimus in combination with",
+        "locationCount": 12
+      },
+      {
         "nctId": "NCT02934256",
         "briefTitle": "Icotinib Study for Patients With Neurofibromatosis Type 2 (NF2) and NF2-Related Tumors",
         "status": "COMPLETED",
@@ -15164,6 +15224,18 @@
         ],
         "briefSummary": "The purpose of the study is to determine if RAD001 treatment will shrink or slow the growth of the vestibular schwannoma(s) in Neurofibromatosis 2 (NF2) patients.",
         "locationCount": 1
+      },
+      {
+        "nctId": "NCT03190915",
+        "briefTitle": "Trametinib in Treating Patients With Relapsed or Refractory Juvenile Myelomonocytic Leukemia",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Juvenile Myelomonocytic Leukemia",
+          "Neurofibromatosis Type 1"
+        ],
+        "briefSummary": "This phase II trial studies how well trametinib works in treating patients with juvenile myelomonocytic leukemia that has come back (relapsed) or does not respond to treatment (refractory). Trametinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
+        "locationCount": 57
       },
       {
         "nctId": "NCT02102256",
@@ -15269,6 +15341,17 @@
           "Schwannomatosis"
         ],
         "briefSummary": "The aims of this study are to compare the effect and durability of two stress and symptom management programs tailored for patients with neurofibromatosis on quality of life and psychosocial functioning.",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT02177825",
+        "briefTitle": "Study of Imatinib Mesylate in Neurofibromatosis Type I Patients Aged 2 to 21 With Plexiform Neurofibromas",
+        "status": "TERMINATED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Plexiform Neurofibromas"
+        ],
+        "briefSummary": "This phase II trial will test the hypothesis that inhibition of c-kit signalling pathways in pediatric patients with Neurofibromatosis Type I(NF-1) and progressing plexiform neurofibroma will result in objective reduction and/or inhibition of plexiform neurofibromas progression.\n\nThis will be a Phas",
         "locationCount": 1
       },
       {
@@ -25815,6 +25898,124 @@
         "locationCount": 0
       },
       {
+        "nctId": "NCT04902352",
+        "briefTitle": "The DISSECT Study: Effect of Peri-aDventItial SMA diSsECtion on Margin sTatus During Pancreaticoduodenectomy for Resectable Pancreatic Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "NA",
+        "conditions": [
+          "Pancreatic Adenocarcinoma"
+        ],
+        "briefSummary": "There is a high rate of R1 resection following patients undergoing pancreaticoduodenectomy for pancreatic cancer. The most commonly positive margin is the SMA. Peri-adventitial dissection has been proposed as an effective method of achieving R0 margins. There is lack of standardisation of the propos",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT05803057",
+        "briefTitle": "Accelerating Motor Recovering in Patients With SMA Syndrome After Glioma Surgery by Using nrTMS",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "conditions": [
+          "Motor Cortex; Lesion",
+          "Glioma",
+          "Supplementary Motor Area Syndrome"
+        ],
+        "briefSummary": "The goal of this randomized clinical controlled trial is to learn about whether neuro-navigation repetitive transcranial magnetic stimulation (nrTMS) was useful to accelerate the recovery in patients with SMA syndrome after glioma resection. The main questions aim to answer:\n\n* Question 1: Whether t",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT06809387",
+        "briefTitle": "Investigating the SMA's Role in Speech and Reading Fluency in PWS With rTMS",
+        "status": "ENROLLING_BY_INVITATION",
+        "phase": "NA",
+        "conditions": [
+          "Stuttering, Adult"
+        ],
+        "briefSummary": "The goal of this clinical trial is to study how a part of the brain called the supplementary motor area (SMA) is connected to speech and reading fluency in adults who stutter. Researchers will use a method called repetitive transcranial magnetic stimulation (rTMS) to learn more about this relationsh",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT06363838",
+        "briefTitle": "Evaluation of Neuromuscular Morphometry of the Vaginal Wall",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Pelvic Organ Prolapse"
+        ],
+        "briefSummary": "In this prospective study, women aged between 40 and 75 years who had not undergone any vaginal surgery and had not undergone any abdominal prolapse surgery were included. Thirty-one women diagnosed with rectocele on examination were included in the study group. Thirty-one patients who underwent vag",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT04784338",
+        "briefTitle": "Virtual Weight Management Shared Medical Visit",
+        "status": "WITHDRAWN",
+        "phase": "NA",
+        "conditions": [
+          "Metabolic Syndrome",
+          "Obesity"
+        ],
+        "briefSummary": "Culinary medicine has emerged which provides the practical application of nutrition education through experiential learning. Studies have shown that patients with metabolic syndrome who underwent a series of classes that featured nutrition recommendations and cooking classes had weight loss, and imp",
+        "locationCount": 0
+      },
+      {
+        "nctId": "NCT02514928",
+        "briefTitle": "Resection of the Nerve Plexus on the Right Half of Celiac and SMA Associated With Extended Pancreatoduodenectomy in the Surgical Treatment for Adenocarcinoma of the Head of Pancreas",
+        "status": "UNKNOWN",
+        "phase": "PHASE3",
+        "conditions": [
+          "Pancreatic Cancer"
+        ],
+        "briefSummary": "This study is performed to confirm whether resection of the nerve plexus on the right half of celiac and SMA associated with extended pancreatoduodenectomy could improve survival and relieve pain of pancreatic cancer patients.",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT01341236",
+        "briefTitle": "Near Infrared Spectroscopy (NIRS) and Superior Mesenteric Artery (SMA) Doppler Patterns as Predictor of Feeding Tolerance in Very Low Birth Weight (VLBW) IntraUterine Growth Restricted (IUGR) and NON IUGR Infants",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "conditions": [
+          "Infant, Very Low Birth Weight",
+          "Infant Malnutrition",
+          "Feeding Disorder of Infancy or Early Childhood",
+          "Splanchnic Oximetry",
+          "Splanchnic Oxygenation"
+        ],
+        "briefSummary": "This study aims at recruiting about twenty very low birth weight infants, either intrauterine growth restricted (IUGR) or NON-IUGR\n\nSTRATIFICATION:Population will be stratified in two groups: IUGR infants (approximately 10 children) and NON-IUGR infants (approximately 10 children).\n\nPRIMARY ENDPOINT",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT07578298",
+        "briefTitle": "THRIVE - Trial of Passive Humoral RSV Immunity for Value and Effectiveness",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE4",
+        "conditions": [
+          "Respiratory Syncytial Virus (RSV)",
+          "Respiratory Infection Virus"
+        ],
+        "briefSummary": "RSV is a leading cause of severe respiratory illness and hospitalisation for young children, with particularly high rates of RSV respiratory infection observed amongst Aboriginal and Torres Strait Islander children living in Australia's Northern Territory. The goal of this clinical trial is to evalu",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT00673751",
+        "briefTitle": "Effect of the Enteric Hormone Glucagon-Like Peptide (GLP-2) on the Intestinal Blood Flow in Patients With Short Bowel Syndrome",
+        "status": "UNKNOWN",
+        "phase": "NA",
+        "conditions": [
+          "Short Bowel Syndrome"
+        ],
+        "briefSummary": "The aim of the study is to investigate the effect of the enteric hormone Glucagon-like Peptide (GLP-2) on patients with short bowel syndrome",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT01994395",
+        "briefTitle": "Development of Walk Assist Device to Improve Community Ambulation",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "conditions": [
+          "Stroke"
+        ],
+        "briefSummary": "Hypothesis/Specific Aims:\n\nThe purpose of this study is to determine the effect of training with the Stride Management Assist (SMA) device vs. Impairment based physical therapy (IPT) on descending corticospinal drive to the lower limb muscles in patients post stroke. The investigators hypothesize th",
+        "locationCount": 1
+      },
+      {
         "nctId": "NCT05866419",
         "briefTitle": "Study of an Intrathecal Port and Catheter System for Subjects With Spinal Muscular Atrophy",
         "status": "RECRUITING",
@@ -25839,6 +26040,70 @@
         "locationCount": 7
       },
       {
+        "nctId": "NCT00466349",
+        "briefTitle": "International SMA Patient Registry",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Muscular Atrophy, Spinal"
+        ],
+        "briefSummary": "This is a registry of individuals affected by Spinal Muscular Atrophy (SMA) and/or family members of individuals affected by SMA. The purpose of the registry is to allow researchers studying the biological basis of SMA and potential therapies in SMA access to individuals interested in participating ",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT05517603",
+        "briefTitle": "A Study to Evaluate Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics Of AJ201 In Patients",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "conditions": [
+          "Spinal and Bulbar Muscular Atrophy",
+          "Kennedy's Disease"
+        ],
+        "briefSummary": "This is a phase 1/2a randomized, double-blind study to evaluate the safety, tolerability, pharmacokinetics, and pharmacodynamics of study drug AJ201 in subjects with Spinal and Bulbar Muscular Atrophy (SBMA).",
+        "locationCount": 6
+      },
+      {
+        "nctId": "NCT06365788",
+        "briefTitle": "Bicalutamide and Abemaciclib in Inoperable or Metastatic Androgen Receptor-positive Triple-negative Breast Cancer",
+        "status": "RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Triple Negative Breast Neoplasms"
+        ],
+        "briefSummary": "This study has as goal to evaluate the use of abemaciclib and bicalutamide in androgen receptor positive metastatic triple negative breast cancer.",
+        "locationCount": 6
+      },
+      {
+        "nctId": "NCT04193228",
+        "briefTitle": "Muscle Structure, Function and Gait in dHMN",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Distal Hereditary Motor Neuropathy, Type II",
+          "Distal Hereditary Motor Neuropathy, Type V",
+          "Distal Hereditary Motor Neuronopathy Type I",
+          "Distal Hereditary Motor Neuronopathy Type VI"
+        ],
+        "briefSummary": "Distal Hereditary Motor Neuropathy (dHMN) is a rare inherited neuromuscular disorder. It is characterised by distal weakness. The condition usually manifests in the second decade of life and progresses slowly. Though patients usually have a normal lifespan it is a disabling condition and most eventu",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT02327845",
+        "briefTitle": "Phenotype, Genotype & Biomarkers in ALS and Related Disorders",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phase": "",
+        "conditions": [
+          "Amyotrophic Lateral Sclerosis",
+          "Frontotemporal Dementia",
+          "Primary Lateral Sclerosis",
+          "Hereditary Spastic Paraplegia",
+          "Progressive Muscular Atrophy",
+          "Multisystem Proteinopathy"
+        ],
+        "briefSummary": "The goals of this study are: (1) to better understand the relationship between the phenotype and genotype of amyotrophic lateral sclerosis (ALS) and related diseases, including primary lateral sclerosis (PLS), hereditary spastic paraplegia (HSP), progressive muscular atrophy (PMA), and frontotempora",
+        "locationCount": 15
+      },
+      {
         "nctId": "NCT04602195",
         "briefTitle": "Responsiveness and Validation Study of MFM-32 in SMA Patients Treated With Nusinersen",
         "status": "COMPLETED",
@@ -25850,6 +26115,88 @@
         "locationCount": 10
       },
       {
+        "nctId": "NCT00374075",
+        "briefTitle": "Study of Safety and Dosing Effect on SMN Levels of Valproic Acid (VPA) in Patients With Spinal Muscular Atrophy",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "conditions": [
+          "Spinal Muscular Atrophy"
+        ],
+        "briefSummary": "This is an open label phase I/II clinical trial to assess safety, tolerability and potential effect on SMN mRNA and protein in vivo of a compound in which preliminary evidence supports a potential effect on SMN levels in vitro.",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT00568802",
+        "briefTitle": "A Pilot Therapeutic Trial Using Hydroxyurea in Type II and Type III Spinal Muscular Atrophy Patients",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "conditions": [
+          "Muscular Atrophy, Spinal"
+        ],
+        "briefSummary": "The objectives of this trial are: to establish a safety profile for use of Hydroxyurea in children with Types II and III Spinal Muscular Atrophy; to identify reliable outcome measures for HU treatment in Types II and III SMA; and to detect the clinical efficacy of HU treatment in children with Types",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT02763865",
+        "briefTitle": "A Pilot Study to Assess the Effects of Pre-SMA LF-rTMS for the Treatment of Essential Tremor",
+        "status": "COMPLETED",
+        "phase": "NA",
+        "conditions": [
+          "Essential Tremor"
+        ],
+        "briefSummary": "The purpose of this study is to determine the effects of Low Frequency Repetitive Transcranial Magnetic Stimulation (LF r-TMS) of the pre-Supplementary Motor Area (pre-SMA) on tremor as measured by the tremor rating scale (TRS) in patients with Essential Tremor (ET).\n\nHypothesis: Pre-SMA LF r-TMS wi",
+        "locationCount": 0
+      },
+      {
+        "nctId": "NCT00485511",
+        "briefTitle": "A Trial of Hydroxyurea in Spinal Muscular Atrophy",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Spinal Muscular Atrophy"
+        ],
+        "briefSummary": "Spinal muscular atrophy (SMA) is an autosomal recessive disorder in humans which results in the loss of motor neurons. It is caused by reduced levels of the survival motor neuron (SMN) protein as a result of loss or mutation of the SMN1 gene. SMN protein is encoded by two genes, SMN1 and SMN2, which",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT07047144",
+        "briefTitle": "A Study to Evaluate How Apitegromab Works in Subjects Who Are Less Than 2 Years Old and Have Spinal Muscular Atrophy",
+        "status": "RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Spinal Muscular Atrophy",
+          "SMA",
+          "Spinal Muscular Atrophy Type 2",
+          "Spinal Muscular Atrophy Type 3",
+          "Neuromuscular Manifestations",
+          "Anti-myostatin"
+        ],
+        "briefSummary": "This double-blind, Phase 2, multiple-dose study will be conducted to evaluate the PK/PD, efficacy, safety, and tolerability of apitegromab in subjects \\<2 years old with 5q autosomal recessive SMA who have delayed motor milestones for their age attributed to SMA at the discretion of the Investigator",
+        "locationCount": 25
+      },
+      {
+        "nctId": "NCT02466529",
+        "briefTitle": "Natural History of Spinal Muscular Atrophy Type 1 in Taiwan",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Natural History of Type 1 Spinal Muscular Atrophy (SMA)"
+        ],
+        "briefSummary": "Spinal muscular atrophy (SMA) is an autosomal recessive disorder characterized by degeneration of motor neurons in the spinal cord and caused by mutations of the survival motor neuron 1 (SMN1) gene.\n\nThe investigators will conduct a systematic review of the contents and activities collected via a co",
+        "locationCount": 0
+      },
+      {
+        "nctId": "NCT00918385",
+        "briefTitle": "Genomic Guided Therapy With Dasatinib or Nilutamide in Metastatic Castration-Resistant Prostate Cancer",
+        "status": "TERMINATED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Prostate Cancer"
+        ],
+        "briefSummary": "This is a phase II multi-center study to determine the clinical impact of using a patient-specific genomic expression signature of androgen receptor (AR) activity to determine therapy for patients with castration-resistant metastatic prostate cancer (CRPC). After patient eligibility is determined, t",
+        "locationCount": 3
+      },
+      {
         "nctId": "NCT01839656",
         "briefTitle": "A Study to Assess the Efficacy, Safety and Pharmacokinetics of Nusinersen (ISIS 396443) in Infants With Spinal Muscular Atrophy (SMA)",
         "status": "COMPLETED",
@@ -25859,6 +26206,40 @@
         ],
         "briefSummary": "The primary objective is to examine the clinical efficacy of multiple doses of nusinersen (ISIS 396443) administered intrathecally to participants with Infantile-Onset Spinal Muscular Atrophy (SMA). The secondary objectives are to examine the safety and tolerability of multiple doses of nusinersen a",
         "locationCount": 4
+      },
+      {
+        "nctId": "NCT05614531",
+        "briefTitle": "Clinical Trial to Assess the Safety and Efficacy of EXG001-307 in Patients with Spinal Muscular Atrophy Type 1",
+        "status": "ENROLLING_BY_INVITATION",
+        "phase": "PHASE1",
+        "conditions": [
+          "Spinal Muscular Atrophy Type I"
+        ],
+        "briefSummary": "The purpose of this trial is to evaluate safety and efficacy of intravenous delivery of EXG001-307 as a treatment of spinal muscular atrophy Type 1 (SMN1).",
+        "locationCount": 2
+      },
+      {
+        "nctId": "NCT03300869",
+        "briefTitle": "Natural History of Types 2 and 3 SMA in Taiwan",
+        "status": "UNKNOWN",
+        "phase": "",
+        "conditions": [
+          "Spinal Muscular Atrophy"
+        ],
+        "briefSummary": "The primary objective of this study is to investigate the natural history of spinal muscular atrophy (SMA) types 2 and 3 patients in Taiwan. This study will provide further insights into the clinical course SMA. Several analyses will be conducted regarding overall survival, demographic characteristi",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT06839469",
+        "briefTitle": "Establishing Walking-related Digital Biomarkers in Rare Childhood Onset Progressive Neuromuscular Disorders",
+        "status": "RECRUITING",
+        "phase": "",
+        "conditions": [
+          "Spinal Muscular Atrophy Type 3",
+          "Duchenne Muscular Dystrophy (DMD)"
+        ],
+        "briefSummary": "The purpose of this research is (1) to identify disease specific walking-related digital biomarkers of disease severity, and (2) monitor longitudinal changes in natural environments, for extended periods of time, in DMD and SMA.",
+        "locationCount": 3
       },
       {
         "nctId": "NCT04050852",
@@ -40326,6 +40707,17 @@
         "locationCount": 0
       },
       {
+        "nctId": "NCT00221195",
+        "briefTitle": "Efficacy Study of Activated Prothrombin Complex for Prevention of Bleeds in Hemophilia A With Inhibitors",
+        "status": "COMPLETED",
+        "phase": "PHASE2",
+        "conditions": [
+          "Hemophilia A With Inhibitors"
+        ],
+        "briefSummary": "The objective of this study is to assess whether prophylactic therapy with an activated prothrombin complex concentrate (FEIBA)will result in a significant reduction in the number of bleeds in patients with hemophilia and persistent high responding inhibitors.",
+        "locationCount": 1
+      },
+      {
         "nctId": "NCT00956345",
         "briefTitle": "Safety of 40K Pegylated Recombinant Factor IX in Non-Bleeding Patients With Haemophilia B",
         "status": "COMPLETED",
@@ -41301,6 +41693,208 @@
         "locationCount": 8
       },
       {
+        "nctId": "NCT05523297",
+        "briefTitle": "Active-control Randomized Trial Comparing 4-factor Prothrombin Complex Concentrate With Frozen Plasma in Cardiac Surgery",
+        "status": "COMPLETED",
+        "phase": "PHASE3",
+        "conditions": [
+          "Bleeding Cardiac Surgery Patients"
+        ],
+        "briefSummary": "This is a multicenter, active-control randomized, prospective, Phase 3 study in adult cardiac surgery patients. 420 patients were randomized at 12 hospitals.",
+        "locationCount": 13
+      },
+      {
+        "nctId": "NCT01352143",
+        "briefTitle": "Thrombin Generation in Neonatal Plasma After Cardiopulmonary Bypass",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Cardiopulmonary Bypass"
+        ],
+        "briefSummary": "The primary goal of this investigation is to determine the ability of recombinant activated factor VII (rFVIIa) and prothrombin complex concentrate (PCC) to improve thrombin generation in neonatal plasma after CPB.",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT03064035",
+        "briefTitle": "Fixed Versus Variable Dosing of 4-factor Prothrombin Complex Concentrate for Emergent Warfarin Reversal",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "conditions": [
+          "Acute Bleeding on Long-Term Anticoagulation Therapy",
+          "Hemorrhage",
+          "Significant Bleeding in Patients With a Coagulopathy (Prolonged Thrombin Time)",
+          "Urgent Reversal of Vitamin K Antagonist (VKA) Anticoagulation"
+        ],
+        "briefSummary": "The goal of this study is to determine if a fixed dose of 4-factor prothrombin complex concentrate (4FPCC) is as effective as the current standard of care. 4FPCC is used to reverse the effects of warfarin when a patient has emergent bleeding. The investigators hope that this study will help doctors ",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT02557672",
+        "briefTitle": "PCC vs. FFP for Post Cardiopulmonary Bypass Coagulopathy and Bleeding",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "conditions": [
+          "Bleeding",
+          "Blood Loss, Surgical",
+          "Cardiovascular Surgical Procedures",
+          "Prothrombin Complex Concentrates",
+          "Fresh Frozen Plasma"
+        ],
+        "briefSummary": "This will be the first prospective randomized controlled clinical trial directly comparing Prothrombin Complex Concentrate (PCC) Compared to Fresh Frozen Plasma (FFP) for post cardiopulmonary bypass microvascular bleeding and factor-mediated coagulopathy. Is there a difference in bleeding and transf",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT07094087",
+        "briefTitle": "Efficacy and Safety of 4F-PCC (4-Factor Prothrombin Complex Concentrate) in Adult Patients Undergoing Complex Cardiovascular Surgery With Cardiopulmonary Bypass (CPB)",
+        "status": "RECRUITING",
+        "phase": "PHASE3",
+        "conditions": [
+          "Complex Cardiovascular Surgery With Cardiopulmonary Bypass"
+        ],
+        "briefSummary": "This is a phase 3, multicenter, randomized, open-label, parallel-group, controlled study to assess the efficacy and safety of BE1116 compared with fresh frozen plasma (FFP) in adult participants undergoing complex cardiovascular surgery with CPB. The primary purpose of the study is to compare the ef",
+        "locationCount": 18
+      },
+      {
+        "nctId": "NCT03981484",
+        "briefTitle": "REPlaCE- Randomized Trial Evaluating the Use of Prothrombin Complex concEntrate to Improve Survival in Patients With Traumatic Coagulopathy",
+        "status": "UNKNOWN",
+        "phase": "PHASE2",
+        "conditions": [
+          "Coagulopathy",
+          "Hemorrhage"
+        ],
+        "briefSummary": "Uncontrolled hemorrhage continues to be a significant source of mortality for trauma patients. Their condition is further complicated by Trauma Induced Coagulopathy (TIC), which makes it more difficult to control bleeding due to coagulation factor deficiency. Prothrombin Complex Concentrate (PCC) is",
+        "locationCount": 0
+      },
+      {
+        "nctId": "NCT05205863",
+        "briefTitle": "Dose-Response in PD and Safety of Cofact Under VKA Anticoagulation",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "conditions": [
+          "Healthy Volunteers"
+        ],
+        "briefSummary": "This is a randomized, open label, placebo-controlled, parallel design, single center, prospective study. Subjects will receive treatment with VKA. Subjects who reach the targeted INR, will receive single dose of Cofact. Multiple coagulation laboratory tests will be evaluated over a period of 15 days",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT06144099",
+        "briefTitle": "Prothrombin Complex Concentrate vs Fresh Frozen Plasma in Goal-directed Bleeding Management in Non-cardiac Surgery",
+        "status": "UNKNOWN",
+        "phase": "PHASE4",
+        "conditions": [
+          "Prostate Cancer",
+          "Spine, Open",
+          "Hip Osteoarthritis",
+          "Knee Disease"
+        ],
+        "briefSummary": "The primary endpoint of this study is the completion time of hemostasis treatment when administered Fresh frozen plasma (FFP) and frozen powder coagulation factor concentrate (PCC) in goal-directed bleeding management for non-cardiac surgery.",
+        "locationCount": 0
+      },
+      {
+        "nctId": "NCT06747416",
+        "briefTitle": "KN057 Multiple Dose Study in Patients with Hemophilia a or Hemophilia B with or Without Inhibitors",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "PHASE2",
+        "conditions": [
+          "Hemophilia a and B"
+        ],
+        "briefSummary": "The goal of this clinical trial is to evaluate the safety and efficacy of KN057 in adult patients with severe Hemophilia A (coagulation factor FVIII activity \\<1%) or moderate-to-severe Hemophilia B (FIX activity \u22642%). Participants will be administered subcutaneously with KN057 once a week for 20 we",
+        "locationCount": 0
+      },
+      {
+        "nctId": "NCT07657715",
+        "briefTitle": "Effects of Dexmedetomidine on Sublingual Microcirculation and Vascular Waterfall Phenomenon in Patients With Septic Shock",
+        "status": "NOT_YET_RECRUITING",
+        "phase": "NA",
+        "conditions": [
+          "Septic Shock",
+          "Sepsis",
+          "Critical Illness"
+        ],
+        "briefSummary": "This prospective, multicenter, single-arm, open-label interventional pilot study aims to evaluate the short-term physiological effects of intravenous dexmedetomidine on sublingual microcirculation and vascular-waterfall parameters in adult patients with septic shock.\n\nEligible patients will have sep",
+        "locationCount": 2
+      },
+      {
+        "nctId": "NCT01288391",
+        "briefTitle": "Investigating Safety and Pharmacokinetics of 2 Different Single Doses of NNC128-0000-2011 in Haemophilia A or B Patients",
+        "status": "COMPLETED",
+        "phase": "PHASE1",
+        "conditions": [
+          "Congenital Bleeding Disorder",
+          "Haemophilia A",
+          "Haemophilia B"
+        ],
+        "briefSummary": "This trial is conducted in Europe and Japan. The aim of this trial is to assess the safety and pharmacokinetics (the rate at which the body eliminates the trial drug) of single doses of NNC128-0000-2011, when administered i.v. (intravenously) to haemophilia patients.",
+        "locationCount": 3
+      },
+      {
+        "nctId": "NCT02061033",
+        "briefTitle": "Global Hemostatic Methods in Hemophilia and Von Willebrand's Disease",
+        "status": "UNKNOWN",
+        "phase": "",
+        "conditions": [
+          "Hemophilia A",
+          "Hemophilia B",
+          "Von Willebrand's Disease"
+        ],
+        "briefSummary": "Patients with hemophilia who have the same level of deficient factor(s) may express different severity of clinical presentation and bleeding tendency. Therefore a test which could determine overall hemostasis rather than simple concentration of a single deficient factor may correlate better with cli",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT04534751",
+        "briefTitle": "Factor In the Initial Resuscitation of Severe Trauma 2 Patients",
+        "status": "UNKNOWN",
+        "phase": "PHASE4",
+        "conditions": [
+          "Traumatic Hemorrhage",
+          "Coagulopathy",
+          "Massive Hemorrhage"
+        ],
+        "briefSummary": "Injury is the leading cause of death for people between the ages of 1-44. This is especially true in trauma patients who have bleeding complications. Acute trauma coagulopathy (ATC) is associated with high transfusion requirements, longer ICU stays, and a greater incidence of multi-organ dysfunction",
+        "locationCount": 6
+      },
+      {
+        "nctId": "NCT01510418",
+        "briefTitle": "Socialization of Adult Men With Congenital Hemophilia A or B",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Hemophilia A",
+          "Hemophilia B"
+        ],
+        "briefSummary": "The goal of this pilot study is to understand the socialization of adult men with hemophilia living in the United States and their quality of life in order to improve comprehensive care for persons with congenital bleeding disorders. Studies in Europe suggest that despite medical, surgical, and biot",
+        "locationCount": 1
+      },
+      {
+        "nctId": "NCT01322620",
+        "briefTitle": "Survey Evaluating the Psychosocial Effects of Living With Haemophilia",
+        "status": "COMPLETED",
+        "phase": "",
+        "conditions": [
+          "Congenital Bleeding Disorder",
+          "Haemophilia A",
+          "Haemophilia B",
+          "Haemophilia A With Inhibitors",
+          "Haemophilia B With Inhibitors",
+          "Relatives to/Carers of Patients"
+        ],
+        "briefSummary": "This study is conducted in Africa, Asia, Europe, North America and South America.\n\nThe purpose of the survey is to identify the key psychosocial issues affecting patients with haemophilia.",
+        "locationCount": 3
+      },
+      {
+        "nctId": "NCT00002386",
+        "briefTitle": "Effect of Indinavir Plus Two Other Anti-HIV Drugs on Blood Clotting in HIV-Positive Males With Hemophilia",
+        "status": "COMPLETED",
+        "phase": "PHASE4",
+        "conditions": [
+          "HIV Infections",
+          "Hemophilia A"
+        ],
+        "briefSummary": "The purpose of this study is to see if indinavir plus two other anti-HIV drugs affect blood clotting in HIV-positive patients with hemophilia.",
+        "locationCount": 8
+      },
+      {
         "nctId": "NCT05962398",
         "briefTitle": "Long-term Follow-up Study of Male Adults With Hemophilia B Previously Treated With Etranacogene Dezaparvovec (CSL222)",
         "status": "ENROLLING_BY_INVITATION",
@@ -41868,17 +42462,6 @@
         ],
         "briefSummary": "Hemophilia (A and B) are X-linked hereditary bleeding disorders whose severity depends on the level of coagulation factor (FVIII or FIX respectively). Bleeding is mainly from joints (hemarthrosis) and muscles (hematoma). Nowadays, treatment is based on preventive or curative intravenous infusion of ",
         "locationCount": 10
-      },
-      {
-        "nctId": "NCT00221195",
-        "briefTitle": "Efficacy Study of Activated Prothrombin Complex for Prevention of Bleeds in Hemophilia A With Inhibitors",
-        "status": "COMPLETED",
-        "phase": "PHASE2",
-        "conditions": [
-          "Hemophilia A With Inhibitors"
-        ],
-        "briefSummary": "The objective of this study is to assess whether prophylactic therapy with an activated prothrombin complex concentrate (FEIBA)will result in a significant reduction in the number of bleeds in patients with hemophilia and persistent high responding inhibitors.",
-        "locationCount": 1
       },
       {
         "nctId": "NCT03405337",
